@@ -1,0 +1,15 @@
+.imgRegular {
+  width: 574px;
+  object-fit: cover;
+  border-radius: 20px;
+  max-height: calc(-24px + 100vh);
+  object-position: center;
+  /* height: 100%; */
+}
+
+.ReactModal__Content {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 

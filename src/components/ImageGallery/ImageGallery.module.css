@@ -1,0 +1,7 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    /* max-width: calc(100vw - 48px); */
+    justify-content: center;
+}  
